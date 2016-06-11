@@ -1,0 +1,16 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LED-RA
+D Led
+$ENDCMP
+#
+$CMP Led_Small
+D Led
+$ENDCMP
+#
+$CMP NPIC6c596
+D Power logic 8-bit shift register; open-drain outputs
+K shift power led
+$ENDCMP
+#
+#End Doc Library
